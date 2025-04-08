@@ -113,6 +113,7 @@ The header basically controls what is being sent in the referer header. The secu
 
 We may also want to do "Referrer-Policy: strict-origin" to only send the referrer header to sites that are HTTPS to protect the user's privacy, but currently it's not supported on Edge and Safari. 
 
+holaaaaaaaa comoestaaaaa la doñaaa haaaaaaaaa ya te viiii 
 ---
 #### API
 
