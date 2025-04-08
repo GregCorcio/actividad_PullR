@@ -51,7 +51,11 @@ Google has found that most CSP utilising whitelisting does not prevent XSS becau
 
 **Example of a recommended setting:**
 
+<<<<<<< HEAD
     Content-Security-Policy:
+=======
+    hola soy cristian jejejejejejeje arruine el codigo ./.
+>>>>>>> developNA100221
     object-src 'none'; 
     script-src 'nonce-{random}' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:;
     base-uri 'none';
